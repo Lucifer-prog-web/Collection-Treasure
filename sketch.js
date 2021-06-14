@@ -84,6 +84,7 @@ function draw() {
         diamondsG.setVelocityYEach(0)
         jwelleryG.destroyEach();
         jwelleryG.setVelocityYEach(0)
+        path.velocityY = 0;
       }
     }
   }
